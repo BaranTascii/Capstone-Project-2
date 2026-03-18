@@ -67,3 +67,16 @@ section {
   border-radius: 5px;
 }
 
+/* PROJECTS */
+.project-card {
+  background: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0ea5e9;
+}
