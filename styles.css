@@ -80,3 +80,17 @@ section {
   margin-top: 10px;
   color: #0ea5e9;
 }
+
+/* SKILLS */
+.skills ul {
+  list-style: none;
+}
+
+.skills li {
+  margin-bottom: 10px;
+}
+
+/* CONTACT */
+.contact p {
+  margin-bottom: 10px;
+}
