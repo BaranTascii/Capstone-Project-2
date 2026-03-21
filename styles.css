@@ -94,3 +94,23 @@ section {
 .contact p {
   margin-bottom: 10px;
 }
+
+/* CONTACT */
+.contact p {
+  margin-bottom: 10px;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  color: white;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
